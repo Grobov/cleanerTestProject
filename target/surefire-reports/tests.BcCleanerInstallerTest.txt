@@ -1,0 +1,12 @@
+-------------------------------------------------------------------------------
+Test set: tests.BcCleanerInstallerTest
+-------------------------------------------------------------------------------
+Tests run: 5, Failures: 1, Errors: 0, Skipped: 0, Time elapsed: 73.871 s <<< FAILURE! - in tests.BcCleanerInstallerTest
+checkLicenseAndPolicyTest  Time elapsed: 1.319 s
+checkTopicTest  Time elapsed: 1.182 s
+checkDescriptionTest  Time elapsed: 1.155 s
+checkInstallerTest  Time elapsed: 5.329 s
+failedAssertionTest  Time elapsed: 0.015 s  <<< FAILURE!
+java.lang.AssertionError: failed Assertion
+	at tests.BcCleanerInstallerTest.failedAssertionTest(BcCleanerInstallerTest.java:102)
+

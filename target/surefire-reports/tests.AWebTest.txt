@@ -1,0 +1,5 @@
+-------------------------------------------------------------------------------
+Test set: tests.AWebTest
+-------------------------------------------------------------------------------
+Tests run: 1, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 15.445 s - in tests.AWebTest
+verifyDownloadProcessTest  Time elapsed: 11.906 s

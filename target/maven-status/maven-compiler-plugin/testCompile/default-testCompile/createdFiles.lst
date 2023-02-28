@@ -1,0 +1,11 @@
+pages\screens\InstallFirstPage.class
+utils\FileUtils.class
+pages\pages\HomePage$OneTrustBanner.class
+utils\WindowHandle.class
+tests\BaseTest.class
+tests\CCleanerTest.class
+tests\AWebTest.class
+pages\pages\HomePage.class
+pages\screens\RootPage.class
+tests\BcCleanerInstallerTest.class
+pages\screens\CCleanerAppPage.class

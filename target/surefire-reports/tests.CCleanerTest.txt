@@ -1,0 +1,7 @@
+-------------------------------------------------------------------------------
+Test set: tests.CCleanerTest
+-------------------------------------------------------------------------------
+Tests run: 3, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 31.011 s - in tests.CCleanerTest
+checkHealthCheckTest  Time elapsed: 1.052 s
+checkCustomCleanTest  Time elapsed: 1.631 s
+checkDriverUpdaterTest  Time elapsed: 1.598 s
